@@ -16,3 +16,5 @@ Please use  [issue page](https://github.com/Holfz/Steam-Account-Creator/issues) 
  This fork is licensed under the  [MIT License](https://github.com/Holfz/Steam-Account-Creator/blob/master/LICENSE).
  
 **Please note that. I do not take any responsibility and we are not liable for any damage caused through use of this project. This project using for practice my C# language experience**
+
+**Start using this fork mean you have agree the agreement above...  **
