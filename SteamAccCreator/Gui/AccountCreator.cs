@@ -106,7 +106,10 @@ namespace SteamAccCreator.Gui
             }
             else
             {
-                Clipboard.SetText(_mail);
+                _mainForm.InvokeIfRequired(() =>
+                {
+                    Clipboard.SetText(_mail);
+                });
             }
         }
 
