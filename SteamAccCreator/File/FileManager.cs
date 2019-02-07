@@ -12,7 +12,7 @@ namespace SteamAccCreator.File
         {
             using (var writer = new StreamWriter(Path, true))
             {
-                writer.WriteLine(mail + ":" + pass);
+                writer.WriteLine($"{mail}\t{alias}\t{pass}");
             }
         }
     }
