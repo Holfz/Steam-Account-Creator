@@ -55,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Extension.cs" />
     <Compile Include="Gui\CaptchaDialog.cs">
       <SubType>Form</SubType>
     </Compile>
